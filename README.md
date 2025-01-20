@@ -19,8 +19,19 @@ Twilight Orchid Theme is an elegant and modern theme for Visual Studio Code, des
 5. Select the theme by going to `File > Preferences > Color Theme` and choose `Twilight Orchid`.
 
 ## Screenshot
-![Theme Screenshot](https://github.com/woweya/twilight-orchid-images/raw/main/images/Screenshot1.png)
-![Theme Screenshot](https://github.com/woweya/twilight-orchid-images/raw/main/images/Screenshot2.png)
+![Theme Screenshot](https://github.com/woweya/twilight-orchid-images/raw/main/images/ScreenshotHTML.png)
+![Theme Screenshot](https://github.com/woweya/twilight-orchid-images/raw/main/images/ScreenshotCSS.png)
+![Theme Screenshot](https://github.com/woweya/twilight-orchid-images/raw/main/images/ScreenshotJS.png)
+![Theme Screenshot](https://github.com/woweya/twilight-orchid-images/raw/main/images/ScreenshotPHP.png)
+![Theme Screenshot](https://github.com/woweya/twilight-orchid-images/raw/main/images/ScreenshotSELECT.png)
+![Theme Screenshot](https://github.com/woweya/twilight-orchid-images/raw/main/images/ScreenshotFOCUS.png)
+![Theme Screenshot](https://github.com/woweya/twilight-orchid-images/raw/main/images/ScreenshotWindow.png)
+![Theme Screenshot](https://github.com/woweya/twilight-orchid-images/raw/main/images/ScreenshotTab.png)
+
+
+
+
+
 
 ## Feedback
 
